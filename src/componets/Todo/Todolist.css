@@ -1,0 +1,40 @@
+.contenitore {
+    background-color: #ccc;
+}
+
+#btn,
+.list ul li input[type=button] {
+    background-color: salmon;
+    padding: .4rem;
+    margin: .3rem;
+    font-size: .6rem;
+    border: none;
+    width: 5rem;
+    border-radius: 0.5rem;
+    color: #ccc;
+}
+
+input {
+    margin: 0.4rem;
+    width: 10rem;
+}
+
+.list ul li {
+    font-size: .7rem;
+}
+
+.list ul {
+    margin-top: 0.2rem;
+    padding-bottom: 1rem;
+}
+
+.list ul li button {
+    padding: .2rem;
+    background-color: black;
+    border-radius: 0;
+}
+
+p {
+    margin: 1rem;
+    padding: 1rem;
+}

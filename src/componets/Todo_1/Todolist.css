@@ -1,0 +1,24 @@
+.contenitore {
+    background-color: #ccc;
+}
+
+#btn {
+    background-color: salmon;
+    padding: .6rem;
+    margin: .3rem;
+    font-size: .6rem;
+}
+
+input {
+    margin: 0.4rem;
+    width: 10rem;
+}
+
+.list ul li {
+    font-size: .7rem;
+}
+
+.list ul {
+    margin-top: 0.2rem;
+    padding-bottom: 1rem;
+}
